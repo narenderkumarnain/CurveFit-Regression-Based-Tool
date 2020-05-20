@@ -91,5 +91,3 @@ def root1_fun():
     button1.grid(column=0, row=2)
 
     root.mainloop()
-
-root1_fun()
