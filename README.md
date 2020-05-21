@@ -29,3 +29,5 @@ The Regression models used for the project are based on Linear Regression implem
 **4. Lasso Regression:** It is Implementation of Lasso Reglarization on Linear Regression Model and it uses Stochastic Gradient Decent Algorithm to fit the Model. It can be tuned by parameter Alpha to prevent Overfitting on Data.
 
 **5. ElasticNet Regression:** It implements Ridge and Lasso Regularization and their weights can be decide using l1_ratio hyperparameter.
+
+![](Images/frame42.PNG)
