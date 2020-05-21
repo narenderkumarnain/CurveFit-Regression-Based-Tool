@@ -30,4 +30,5 @@ The Regression models used for the project are based on Linear Regression implem
 
 **5. ElasticNet Regression:** It implements Ridge and Lasso Regularization and their weights can be decide using l1_ratio hyperparameter.
 
-![](Images/frame42.PNG)
+## Sample Screenshot
+![Root 4 ](frame42.PNG)
