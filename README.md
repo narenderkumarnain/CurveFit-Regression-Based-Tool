@@ -32,3 +32,5 @@ The Regression models used for the project are based on Linear Regression implem
 
 ## Sample Screenshot
 ![Root 4 ](frame42.PNG)
+
+**.exe File Link:** https://drive.google.com/open?id=1TvGmTcRUoUp8zXOizFyAC6CfzMCGYgSX
