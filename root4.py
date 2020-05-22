@@ -171,6 +171,9 @@ def root4_fun(X, y , title , xlabel , ylabel):
         fig.add_subplot(111).scatter(X_l, y_l, color='Red')
         fig.add_subplot(111).plot( X_grid,
                                   sc_y.inverse_transform(regressor.predict(sc_x.transform(X_fit))))
+        fig.axes[0].set_title(title)
+        fig.axes[0].set_xlabel(xlabel)
+        fig.axes[0].set_ylabel(ylabel)
 
         canvas.draw()
 
